@@ -19,17 +19,9 @@ Hey there! I’m Cong Tran, a passionate developer who loves transforming caffei
 
 ## 🛠️ Skills  
 
-**Languages:**  
-![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)  
-
-**Tools & Frameworks:**  
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
 **Fun Fact:**  
 I once debugged for 3 hours straight... only to realize it was a missing semicolon.  
  
