@@ -1,7 +1,7 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Cong Tran  
+# Cong Tran
 ---
 
-🌟 **Full-Stack Developer | Problem-Solver Extraordinaire**  
+🌟 **Full-Stack Developer**  
 
 * 🌍  I'm based in Arlington, TX, USA
 * ✉️  You can contact me at [congkhanhntran@gmail.com](mailto:congkhanhntran@gmail.com) 
@@ -13,7 +13,7 @@
 
 > "Code like there's no bug, debug like there's no code."  
 
-Hey there! I’m Cong Tran, a passionate developer who loves transforming caffeine into clean, scalable code. From solving real-world problems to making apps *actually work*, I strive to merge creativity with logic to build impactful solutions.
+I’m Cong Tran, a passionate developer who loves transforming caffeine into clean, scalable code. From solving real-world problems to making apps *actually work*, I strive to merge creativity with logic to build impactful solutions.
 
 ---
 
