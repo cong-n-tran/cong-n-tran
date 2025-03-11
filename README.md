@@ -37,4 +37,7 @@ arlington, tx  (DFW area)
 [![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://github.com/cong-n-tran)  
 [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/cong-n-tran/)  
 
+## here's a pick of ksi and his forehead
+![Alt Text](ksi_forehead.webp)
+
 ---
