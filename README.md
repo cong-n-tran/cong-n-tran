@@ -1,29 +1,40 @@
 # Cong Tran  
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-  
-### 📍 Location  
-Arlington, TX  
+---
 
-### 📫 Contact  
+### 📍 my general area  
+Arlington, TX  (DFW area)
+
+---
+
+### 📫 contacts  
 [congkhanhntran@gmail.com](mailto:congkhanhntran@gmail.com)  
 
-## About Me  
-- Incoming **Software Engineer Intern at GitHub** and ion even know how to use it.  
+---
 
-## Tech I Use  
-- **Languages:** JavaScript, Python, Java, C  
-- **Frameworks:** React, SpringBoot, ViteJS  
-- **Tools:** Git, VS Code  
+## about me 
+- been yo-yoing for about 9 years now
+- swam competitively for 3 years
+- recently got into rock climbing
+- goated at league of legends
+- build custom keyboards purely for the sound
+- have a sick gaming pc 
+- incoming swe intern at **GitHub** and ion even know how to use it. 
 
-## 🌐 Connect  
+---
+
+## tech stack 
+- **Languages:** Java, JavaScript, Python, SQL, C 
+- **Frameworks:**  ReactJS, Spring Boot, MySQL, Firebase, PyTorch, TensorFlow  
+- **Tools:** Git/GitHub, AWS, Postman, VSCode, MacOS
+
+---
+
+
+---
+
+## 🌐 my socials  
 [![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://github.com/cong-n-tran)  
 [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/cong-n-tran/)  
 
-  </div>
-  <div>
-    <img src="ksi_forehead.webp" width="200px" style="border-radius: 10px;">
-  </div>
-</div>
-
+---
