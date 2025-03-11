@@ -15,7 +15,7 @@ Arlington, TX
 ---
 
 ## About Me  
-- Incoming **Software Engineer Intern at GitHub** and ion even know how to use the gitbub. 
+- Incoming **Software Engineer Intern at GitHub** and ion even know how to use it. 
 
 ---
 
@@ -35,4 +35,3 @@ Arlington, TX
 
 ---
 
-That’s it. No fancy outro.
