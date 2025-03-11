@@ -3,7 +3,7 @@
 ---
 
 ### 📍 my general area  
-Arlington, TX  (DFW area)
+arlington, tx  (DFW area)
 
 ---
 
