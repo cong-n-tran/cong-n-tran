@@ -1,11 +1,9 @@
 # Cong Tran  
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-  <div>
-    <img src="ksi_forehead.webp" width="200px" style="border-radius: 10px;">
-  </div>
-  
+<table>
+  <tr>
+    <td>
+
 ### 📍 Location  
 Arlington, TX  
 
@@ -24,5 +22,10 @@ Arlington, TX
 [![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://github.com/cong-n-tran)  
 [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/cong-n-tran/)  
 
-  </div>
-</div>
+   </td>
+   <td>
+     <img src="ksi_forehead.webp" width="200px">
+   </td>
+  </tr>
+</table>
+
