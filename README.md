@@ -1,18 +1,44 @@
-# Cong Tran
----
+# Cong Tran  
 
-🌟 **Full-Stack Developer**  
-
-* 🌍  I'm based in Arlington, TX, USA
-* ✉️  You can contact me at [congkhanhntran@gmail.com](mailto:congkhanhntran@gmail.com) 
-<p align="left"> <a href="https://www.github.com/cong-n-tran" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/cong-n-tran/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+**Software Engineer | Just Figuring Things Out**  
 
 ---
 
-## About Me
-
-
-I'm am incoming software enginee intern at Github and I have no idea how the website works!
+### 📍 Location  
+Arlington, TX  
 
 ---
 
+### 📫 Contact  
+[congkhanhntran@gmail.com](mailto:congkhanhntran@gmail.com)  
+
+---
+
+## About Me  
+- I write code. Sometimes it works.  
+- Incoming **Software Engineer Intern at GitHub**.  
+- Mostly here to build cool stuff and break things along the way.  
+
+---
+
+## Tech I Use  
+- **Languages:** JavaScript, Python, Java, C  
+- **Frameworks:** React, SpringBoot, ViteJS  
+- **Databases:** MySQL  
+- **Tools:** Git, VS Code  
+
+---
+
+## Other Notes  
+- I play League of Legends, so I’m familiar with bad decisions.  
+- Open to new projects, collaborations, and fixing my own bugs (eventually).  
+
+---
+
+## 🌐 Connect  
+[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://github.com/cong-n-tran)  
+[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/cong-n-tran/)  
+
+---
+
+That’s it. No fancy outro.
