@@ -1,6 +1,6 @@
 # Cong Tran  
 
-**Software Engineer | Just Figuring Things Out**  
+**Software Engineer**  
 
 ---
 
@@ -15,23 +15,17 @@ Arlington, TX
 ---
 
 ## About Me  
-- I write code. Sometimes it works.  
-- Incoming **Software Engineer Intern at GitHub**.  
-- Mostly here to build cool stuff and break things along the way.  
+- Incoming **Software Engineer Intern at GitHub** and ion even know how to use the gitbub. 
 
 ---
 
 ## Tech I Use  
 - **Languages:** JavaScript, Python, Java, C  
 - **Frameworks:** React, SpringBoot, ViteJS  
-- **Databases:** MySQL  
 - **Tools:** Git, VS Code  
 
 ---
 
-## Other Notes  
-- I play League of Legends, so I’m familiar with bad decisions.  
-- Open to new projects, collaborations, and fixing my own bugs (eventually).  
 
 ---
 
