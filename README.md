@@ -1,6 +1,6 @@
 # Cong Tran  
 
-**Software Engineer**  
+![Alt Text](ksi_forehead.webp)
 
 ---
 
