@@ -19,7 +19,7 @@ arlington, tx  (DFW area)
 - goated at league of legends
 - build custom keyboards purely for the sound
 - have a sick gaming pc 
-- incoming swe intern at **GitHub** and ion even know how to use it. 
+- incoming swe intern at **GitHub** and i DO know how to use it. 
 
 ---
 
